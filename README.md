@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 📚 Current Learning
 - 📦 Containerization and orchestration through: [Docker and Kubernetes: The Complete Course from Zero to Hero](https://www.udemy.com/share/10c2gZ3@O3CVnsLS0NzKHogchcqBBsybTg4LPYRHAURHUO9AJCL3KHDCiEnJERmYPXR-fQ9xEA==/)
-
+- 👷🏻‍♀️ Creating proper README.md files 
 
 
 ### 🤝 Let's Connect
