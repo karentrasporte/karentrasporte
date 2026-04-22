@@ -5,7 +5,7 @@ I'm Karen and welcome to my GitHub!
 ### ✨ About Me
 👩🏻‍💻 I'm an experienced integration engineer building APIs using enterprise service bus, such as Oracle Service Bus and webMethods, and API gateways, such as Layer7, Apigee X and Axway. 
 
-💼 More recently, I've gained experience with DevOps tools and practices using OpenShift Container Platform, Docker, Git, Bitbucket, Cloudbees and AWS.
+💼 With my most recent employer, I've gained experience with DevOps tools and practices using OpenShift Container Platform, Docker, Git, Bitbucket, Cloudbees and AWS.
 
 📑 I've always wanted to deep dive into DevOps and learn Python so I thought I'd dedicate this space to my learning of these technologies. 
 
