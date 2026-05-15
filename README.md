@@ -9,14 +9,19 @@ I'm Karen and welcome to my GitHub!
 
 📑 I've always wanted to deep dive into DevOps and learn Python so I thought I'd dedicate this space to my learning of these technologies. 
 
-I completed:  
-✅ [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) (still working on getting my digital certificate badge)  
-✅ [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) - GitHub repos [here](https://github.com/orgs/python-mega-course/repositories)  
-✅ [Anthropic course AI Fluency: Framework and Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) - GitHub repo [here](https://github.com/karentrasporte/myprofile)
+### 📚 Currently Learning
+- 📦 Containerization and orchestration through: [Docker and Kubernetes: The Complete Course from Zero to Hero](https://www.udemy.com/share/10c2gZ3@O3CVnsLS0NzKHogchcqBBsybTg4LPYRHAURHUO9AJCL3KHDCiEnJERmYPXR-fQ9xEA==/)
+- 👷🏻‍♀️ Creating proper README.md files 
 
-🎯 Next I'm deep diving into is Docker and Kubernetes!
+### ✅ Completed:  
+- [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) (still working on getting my digital certificate badge)  
+- [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) - GitHub repos [here](https://github.com/orgs/python-mega-course/repositories)  
+- [Anthropic course AI Fluency: Framework and Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) - GitHub repo [here](https://github.com/karentrasporte/myprofile)
+
 
 <!--
+🎯 Next I'm deep diving into is Docker and Kubernetes!
+
 **karentrasporte/karentrasporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,10 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 📚 Current Learning
-- 📦 Containerization and orchestration through: [Docker and Kubernetes: The Complete Course from Zero to Hero](https://www.udemy.com/share/10c2gZ3@O3CVnsLS0NzKHogchcqBBsybTg4LPYRHAURHUO9AJCL3KHDCiEnJERmYPXR-fQ9xEA==/)
-- 👷🏻‍♀️ Creating proper README.md files 
 
 
 ### 🤝 Let's Connect
