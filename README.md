@@ -11,7 +11,8 @@ I'm Karen and welcome to my GitHub!
 
 I completed:  
 ✅ [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) (still working on getting my digital certificate badge)  
-✅ [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) - GitHub repos [here](https://github.com/orgs/python-mega-course/repositories) 
+✅ [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) - GitHub repos [here](https://github.com/orgs/python-mega-course/repositories)  
+✅ [Anthropic course AI Fluency: Framework and Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) - GitHub repo [here](https://github.com/karentrasporte/myprofile)
 
 🎯 Next I'm deep diving into is Docker and Kubernetes!
 
