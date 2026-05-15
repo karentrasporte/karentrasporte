@@ -9,7 +9,7 @@ I'm Karen and welcome to my GitHub!
 
 📑 I've always wanted to deep dive into DevOps and learn Python so I thought I'd dedicate this space to my learning of these technologies. 
 
-✅ I completed [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) (still working on getting my digital certificate badge) and an [online course on Python](https://www.udemy.com/course/the-python-mega-course/) (certificate below!) and you can find the repo of the projects I've worked on in this GitHub. 
+✅ I completed [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) (still working on getting my digital certificate badge) and an [online course on Python](https://www.udemy.com/course/the-python-mega-course/) and you can find the repo of the projects I've worked on in this [GitHub](https://github.com/orgs/python-mega-course/repositories). 
 
 🎯 Next I'm deep diving into is Docker and Kubernetes!
 
@@ -38,12 +38,4 @@ Here are some ideas to get you started:
 - Email: karentrasporte@yahoo.com
 
 
-
-
 ⭐ Thanks for visiting my profile!
-
-
-
-
-
-<img width="1600" height="1190" alt="UC-8467fa63-0fbb-4de0-a90d-0f4428db8ea9" src="https://github.com/user-attachments/assets/e5891ff9-493c-43af-9dea-8083b7f6d9cf" />
