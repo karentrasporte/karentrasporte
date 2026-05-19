@@ -14,8 +14,8 @@ I'm Karen and welcome to my GitHub!
 - 👷🏻‍♀️ Creating proper README.md files 
 
 ### ✅ Completed:  
-- [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) (still working on getting my digital certificate badge) - GitHub repos [here](https://github.com/karentrasporte/twn-devops-bootcamp)  
-- [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) - GitHub repos [here](https://github.com/orgs/python-mega-course/repositories)  
+- [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) (still working on getting my digital certificate badge) - GitHub repos [here](https://github.com/orgs/twn-devops-bootcamp/repositories)  
+- [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) - GitHub repos [here](https://github.com/karentrasporte/udemy-python-mega-course)  
 - [Anthropic course AI Fluency: Framework and Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) - GitHub repo [here](https://github.com/karentrasporte/myprofile)
 
 
