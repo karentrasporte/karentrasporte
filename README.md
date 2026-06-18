@@ -7,6 +7,8 @@ I'm Karen and welcome to my GitHub!
 
 💼 With my most recent employer, I've gained experience with microservices and DevOps tools and practices using OpenShift Container Platform, Docker, Git, Bitbucket, Cloudbees and AWS.
 
+🚀 Throughout my 14-year career, I’ve been involved in the full software development lifecycle, contributing to planning, design, development, testing, deployment, delivery, and production support.
+
 📑 I've always wanted to deep dive into DevOps and learn Python so I thought I'd dedicate this space to my learning of these technologies. 
 
 ### 📚 Currently Learning
